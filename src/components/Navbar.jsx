@@ -16,9 +16,8 @@ function Navbar() {
       <div className="w-full h-20 flex justify-between items-center border-b px-5">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <FaPaw size={30} className="text-blue-600" />
           <Link to="/">
-            <h1 className="text-2xl font-bold text-blue-600">Pet Care</h1>
+            <h1 className="text-2xl font-bold text-blue-600">Tayyab Hakro</h1>
           </Link>
         </div>
 

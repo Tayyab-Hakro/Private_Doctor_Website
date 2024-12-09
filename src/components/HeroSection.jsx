@@ -1,4 +1,3 @@
-import React from "react";
 
 function Hero() {
   const phoneNumber = "+1 234 567 890";
